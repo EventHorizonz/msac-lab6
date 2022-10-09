@@ -13,7 +13,8 @@
         git config --global user.email "john.doe@somewebsite.com"
 
 4. Why did we use the `--global` flag?  (What does that do?)
-
+        
+        --global is used to affect all repos on your system.
 
 5. Check your git config to show the changes you have made
 
