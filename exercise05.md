@@ -10,11 +10,12 @@
 
 4. Enter your commit message, e.g.
 
-        First commit
+        First commit danny
 
 5. Save and exit from the editor
 
 6. Check git status again, and paste the contents below.
 
-        git status
+        On branch master
+        nothing to commit, working tree clean
 
