@@ -8,7 +8,9 @@
 
 3. Check your git status, and paste the contents here
 
-        git status
+        No commits yet
+
+        nothing to commit (create/copy files and use "git add" to track)
 
 4. Add the new file to your index
 
@@ -16,5 +18,11 @@
 
 5. Check git status again, and paste the contents below
 
-        git status
+        On branch master
+
+        No commits yet
+
+        Changes to be committed:
+         (use "git rm --cached <file>..." to unstage)
+                 new file:   fruits.txt
 
