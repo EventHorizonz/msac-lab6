@@ -25,5 +25,9 @@
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
 
+     you can specify as much or as little as you want down to one line
+
 8. How can you show just the last three commit messages?
+   
+   by typing git log --oneline (3rd hash). anything below it will be displayed.
 
