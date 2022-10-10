@@ -15,6 +15,7 @@
 6. Does the following command return anything?
 
         git diff --staged
+        Returned nothing for me
 
 7. Add one of your changed files to the index
 
@@ -33,6 +34,7 @@
 
         git diff
         git diff --staged
+        I am still getting nothing and jumps to the next line.
 
 11. Commit the changes
 
@@ -43,5 +45,7 @@
 14. Does the new untracked file show up in git diff?
 
         git diff
+        
+        still not showing anything
 
 15. Add and commit the new file
